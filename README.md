@@ -9,7 +9,7 @@
 ###### Email: mrbotelho@inf.ufpel.edu.br 
 ###### DC: .botlane
 
-
+##### Complexidade: O(n).
 ##### Foram testados 3 exemplos.
 ###### Exemplos utilizados: 
 ###### Ex. 1: Input: Amount = [7,2,3], Expected = 7
