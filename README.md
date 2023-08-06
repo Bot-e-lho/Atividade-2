@@ -17,7 +17,7 @@
 ###### Ex. 3: Input: Amount = [3,2,1], Expected = 3
 
 ## Mudanças no código
-#### Foram feitas diversas mudanças no código feito em aula. Apesar de a lógica para encontrar o mínimo de secondos estar quase correta, por um descuido não foi criada a fila. 
+#### Foram feitas diversas mudanças no código feito em aula. Apesar de que a lógica para encontrar o mínimo de segundos estar quase correta, por um descuido não foi criada a fila em aula. 
 
 ##### Link para o vídeo:
 ###### 
