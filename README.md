@@ -20,5 +20,5 @@
 #### Foram feitas diversas mudanças no código feito em aula. Apesar de que a lógica para encontrar o mínimo de segundos estar quase correta, por um descuido não foi criada a fila em aula. 
 
 ##### Link para o vídeo:
-###### 
-###### 
+###### <https://drive.google.com/drive/folders/1poFyCDkBgWJ-gl4M7kRRcX5Hl8OrWI52?usp=sharing>
+###### Obs.: Não foi utilizado funções do tipo pop.
